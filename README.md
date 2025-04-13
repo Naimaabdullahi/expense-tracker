@@ -41,7 +41,7 @@ bash
 Copy
 Edit
 npm run dev
-Then visit: http://localhost:5174.
+Then visit: http://localhost:5176.
 
 Core Deliverables
 According to the challenge requirements:
