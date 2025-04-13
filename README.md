@@ -61,4 +61,3 @@ Delete expenses from the list
 
 Contact
 Created with ❤️ by Naima.
-GitHub: https://github.com/your-username
